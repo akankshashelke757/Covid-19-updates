@@ -1,0 +1,38 @@
+guddy saksena,magarpatta city,6432,38,female,healthy,18/10/2020
+piku,koregaon park,1675,46,female,healthy,18/10/2020
+guddy saksena,magarpatta city,6432,38,female,healthy,18/10/2020
+piku,koregaon park,1675,46,female,healthy,18/10/2020
+guddy saksena,magarpatta city,6432,38,female,healthy,18/10/2020
+piku,koregaon park,1675,46,female,healthy,18/10/2020
+sanjay singh,shivaji nagar,1623,23,male,healthy,20/10/2020
+shinshan,hadapsar,6324,24,male,good,20/10/2020
+rani,khadki,3482,36,female,good,20/10/2020
+sanjay singh,shivaji nagar,1623,23,male,healthy,20/10/2020
+shinshan,shivaji nagar,6324,24,male,good,20/10/2020
+rani,shivaji nagar,3482,36,female,good,20/10/2020
+k,shivaji nagar,87,26,male,good,22/10/2020
+k,shivaji nagar,87,26,male,good,22/10/2020
+m,shivaji nagar,346,27,female,good,22/10/2020
+m,shivaji nagar,346,27,female,good,22/10/2020
+k,shivaji nagar,87,26,male,good,22/10/2020
+m,shivaji nagar,346,27,female,good,22/10/2020
+m,shivaji nagar,0,27,female,good,24/10/2020
+sanjay singh,shivaji nagar,1623,23,male,healthy,20/10/2020
+shinshan,shivaji nagar,6324,24,male,good,20/10/2020
+rani,hadapsar,3482,36,female,good,20/10/2020
+k,hadapsar,87,26,male,good,22/10/2020
+m,hadapsar,346,27,female,good,22/10/2020
+k,hadapsar,87,26,male,good,22/10/2020
+m,hadapsar,346,27,female,good,22/10/2020
+m,hadapsar,346,27,female,good,22/10/2020
+k,hadapsar,87,26,male,good,22/10/2020
+m,hadapsar,346,27,female,good,22/10/2020
+m,hadapsar,0,27,female,good,24/10/2020
+k,khadki,5,7,m,o,17/11/2020
+y,khadki,4,8,f,h,17/11/2020
+v,khadki,1,45,f,h,17/11/2020
+y,h,6,2,m,p,17/11/2020
+p,khadki,6,2,f,u,17/11/2020
+b,khadki,8,3,m,ns,17/11/2020
+raghav singh,warje,8471,56,male,bad,25/11/2020
+tokyo marozoh,kharadi,4567,23,female,bad,25/11/2020
